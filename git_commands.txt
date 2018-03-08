@@ -6,3 +6,7 @@ git config user.name ---> to display that particular config value
 git help --->help manual
 git help <command name> -------->open webpage for that command
 git init --------> navigate to the folder which u want to set as git project and enter the command to set as git project
+git add .
+git commit -m "<your commit message>"
+git log --> view commit history
+git log --author="<name>" --->view commit for a particular person
