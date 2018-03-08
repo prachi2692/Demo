@@ -1,0 +1,8 @@
+git --version ------> tells the git version which is installed in computer
+git config --global user.name "" ------ configure your username
+git config --global user.email ""
+git config --list -------> to list all the git configs
+git config user.name ---> to display that particular config value
+git help --->help manual
+git help <command name> -------->open webpage for that command
+git init --------> navigate to the folder which u want to set as git project and enter the command to set as git project
