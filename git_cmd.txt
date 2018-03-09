@@ -12,3 +12,4 @@ git log --> view commit history
 git log --author="<name>" --->view commit for a particular person
 git status
 git diff   -----> difference between working and local copy of the file
+git diff --staged   ---->ignores the staging area
