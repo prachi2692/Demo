@@ -13,3 +13,5 @@ git log --author="<name>" --->view commit for a particular person
 git status
 git diff   -----> difference between working and local copy of the file
 git diff --staged   ---->ignores the staging area
+git mv <filename> <new_filename> ------>rename the file
+git commit -am ""  --------> skip the staging area ie add command
